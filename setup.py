@@ -17,7 +17,7 @@ setup(
     install_requires=['future>=0.15.2',
                        'requests>=2.13.0',
                        'configparser>=3.5.0,<4.0',
-                       'jsonschema>=2.5.1,<2.0',
+                       'jsonschema>=2.5.1,<3.0',
                        'enum34>=1.1.6,<2.0',
                        'Pillow>=2.9.0'],
     packages=find_packages(),
